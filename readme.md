@@ -5,7 +5,7 @@ npm i -g .
 
 Usage: translate <lang_name> sentence to be translated
 
-To see all available commands, run `translate`
+To see all available commands, run 
 ```
 translate --help
 ```
