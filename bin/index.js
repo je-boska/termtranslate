@@ -4,7 +4,7 @@ const utils = require("./utils.js");
 const translate = require('@vitalets/google-translate-api');
 const colors = require("colors");
 
-const usage = "\nUsage = translate <lang_name> sentence to be translated";
+const usage = "\nUsage: translate <lang_name> sentence to be translated";
 
 const options = yargs
 	.usage(usage)
